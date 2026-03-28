@@ -1,6 +1,6 @@
-const API_BASE = 'http://localhost:3001/api/v1';
-
-class MockApi {
+const API_BASE = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1'
+    ? 'http://localhost:3001/api/v1'
+    : '/api/v1'; class MockApi {
     constructor() {
         this.metrics = {};
         this.alerts = [];
@@ -8,10 +8,10 @@ class MockApi {
         this.rules = [];
         this.flows = {};
         this.listeners = new Set();
-        
+
         // Initial fetch
         this.fetchData();
-        
+
         // Poll every 2.5s for real-time dashboard updates
         setInterval(() => this.fetchData(), 2500);
     }
