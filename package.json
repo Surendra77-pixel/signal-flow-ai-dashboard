@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "concurrently \"vite --port 3200\" \"node server/index.js\"",
     "build": "vite build",
+    "start": "node server/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
