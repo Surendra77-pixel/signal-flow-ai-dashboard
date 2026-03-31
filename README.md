@@ -32,7 +32,7 @@
 
 ---
 
-## ⚡ What Is SignalFlow?
+## ⚡ What Is SignalFlow??
 
 **SignalFlow** is an intelligent, real-time analytics dashboard that detects, analyzes, and diagnoses user drop-offs during complex signup flows. It goes beyond traditional funnel analytics by reading **behavioral signals** — rage clicks, hesitation patterns, tab switches — to pinpoint the *exact* reason users abandon your flow.
 
