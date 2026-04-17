@@ -36,7 +36,7 @@
 
 **SignalFlow** is an intelligent, real-time analytics dashboard that detects, analyzes, and diagnoses user drop-offs during complex signup flows. It goes beyond traditional funnel analytics by reading **behavioral signals** — rage clicks, hesitation patterns, tab switches — to pinpoint the *exact* reason users abandon your flow.
 
-When a critical drop is detected, SignalFlow's built-in **AI Root-Cause Engine** maps the failure to a specific UX friction point and hands you an **actionable code patch** on the spot.
+When a critical drop is detected, SignalFlow's built-in **AI Root-Cause Engine** maps the failure to a specific UX friction point and hands you an **actionable code patch** on the spot..
 
 ---
 
