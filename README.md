@@ -10,7 +10,7 @@
 ╚══════╝╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚═╝     ╚══════╝ ╚═════╝  ╚══╝╚══╝
 ```
 
-### 🌊 AI-Powered Drop-Off Detector · Real-Time Funnel Intelligence
+### 🌊 AI-Powered Drop-Off Detector · Real-Time Funnel Intelligence.
 
 <br/>
 
